@@ -1,16 +1,2 @@
-# plants_detection_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Potato-Plant-Leaf-disease-detection
+One of the primary advantages of plant leaf disease detection is that it allows for the early detection of diseases on the leaf. This can help prevent the spread of diseases and reduce the amount of damage caused to crops. By detecting diseases early, farmers can take action to prevent or treat the disease, which can increase crop yields and improve the quality of the crops. 
